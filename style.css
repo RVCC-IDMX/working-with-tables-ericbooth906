@@ -18,16 +18,22 @@ body {
   align-items: center;
 }
 
-#img {
+figure {
 align-items: center;
-background-color: red;
-border:3px #000000;
+justify-content: center;
+background-color: orangered;
+padding: 1.5em;
 }
 
-#Sul {
+ul {
+  border-style: dashed;
+  border-color: blue;
   text-indent:25px;
   list-style-type: square;
+  padding: 1rem;
   }
+
+
 
 caption {
   font-size: medium;
@@ -40,6 +46,7 @@ caption {
 
 
   table.GeneratedTable {
+     font: Verdana;
       width: 100%;
       background-color:whitesmoke;
       border-width: 2px;
@@ -49,16 +56,19 @@ caption {
     }
    
   table.GeneratedTable thead {
-      text-align: left;
-      background-color:navy;
-      color: whitesmoke;
-      font-variant: small-caps;
-      }  
+    font: Verdana;
+    text-align: left;
+    background-color:navy;
+    color: whitesmoke;
+    font-variant: small-caps;
+    }  
 
   table.GeneratedTable td {
+    font: Verdana;
     border-width: 1px;
     font-size: medium;
-    border-color:navy;
+    background-color: silver;
+    border-color:orangered;
     border-style: solid;
     padding: 3px;
   }
@@ -71,6 +81,16 @@ caption {
     text-align: left;
     font-size: large;
     font-weight: 200;
+    font: Verdana;
+  }
+ #footer {
+  padding:.5em;
+  font-variant:small-caps;
+  text-align: center;
+  background-color: black;
+  font: medium;
+  color: orangered;
+
   }
   
 

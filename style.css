@@ -1,5 +1,5 @@
 
-h1 {color: darkolivegreen;
+h1 {color: navy;
 text-align: center;
 font-variant: small-caps;
 }
@@ -12,14 +12,14 @@ body {
 caption {
   font-size: larger;
   text-align: left;
-  color: darkolivegreen;
+  color: black;
   padding-bottom: 2rem;
   }
 
 
   table.GeneratedTable {
       width: 100%;
-      background-color:bisque;
+      background-color:whitesmoke;
       border-width: 2px;
       border-color: black;
       border-style: solid;
@@ -28,22 +28,22 @@ caption {
    
   table.GeneratedTable thead {
       text-align: left;
-      background-color:darkslategray;
-      color: antiquewhite;
+      background-color:navy;
+      color: whitesmoke;
       font-variant: small-caps;
       }  
 
   table.GeneratedTable td {
     border-width: 1px;
     font-size: medium;
-    border-color:darkolivegreen;
+    border-color:navy;
     border-style: solid;
     padding: 3px;
   }
   
   table.GeneratedTable th {
     border-width: 1px;
-    border-color:darkolivegreen;
+    border-color:navy;
     border-style: solid;
     padding: 3px;
     text-align: left;
@@ -52,9 +52,6 @@ caption {
   }
   
 
-
- 
-</style>
 
 
 

@@ -1,30 +1,62 @@
-<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
-<style>
-  table.GeneratedTable {
-    width: 100%;
-    background-color: #ffffff;
-    border-collapse: collapse;
-    border-width: 2px;S
-    border-color: #004cff;
-    border-style: solid;
-    color: #000000;
+
+h1 {color: darkolivegreen;
+text-align: center;
+font-variant: small-caps;
+}
+
+body {
+  background-color: lightgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+caption {
+  font-size: larger;
+  text-align: left;
+  color: darkolivegreen;
+  padding-bottom: 2rem;
   }
-  
-  table.GeneratedTable td, table.GeneratedTable th {
-    border-width: 2px;
-    border-color: #004cff;
+
+
+  table.GeneratedTable {
+      width: 100%;
+      background-color:bisque;
+      border-width: 2px;
+      border-color: black;
+      border-style: solid;
+      color: #000000;
+    }
+   
+  table.GeneratedTable thead {
+      text-align: left;
+      background-color:darkslategray;
+      color: antiquewhite;
+      font-variant: small-caps;
+      }  
+
+  table.GeneratedTable td {
+    border-width: 1px;
+    font-size: medium;
+    border-color:darkolivegreen;
     border-style: solid;
     padding: 3px;
   }
   
-  table.GeneratedTable thead {
-    background-color: #a3d2f0;
+  table.GeneratedTable th {
+    border-width: 1px;
+    border-color:darkolivegreen;
+    border-style: solid;
+    padding: 3px;
+    text-align: left;
+    font-size: large;
+    font-weight: 200;
   }
-  </style>
+  
+
+
+ 
+</style>
 
 
 
-body {
-  background-color: aliceblue;
-  font-family: Arial, Helvetica, sans-serif;
-}
+  
+    

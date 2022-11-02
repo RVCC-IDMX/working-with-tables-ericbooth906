@@ -1,3 +1,30 @@
+<!-- CSS Code: Place this code in the document's head (between the 'head' tags) -->
+<style>
+  table.GeneratedTable {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 2px;S
+    border-color: #004cff;
+    border-style: solid;
+    color: #000000;
+  }
+  
+  table.GeneratedTable td, table.GeneratedTable th {
+    border-width: 2px;
+    border-color: #004cff;
+    border-style: solid;
+    padding: 3px;
+  }
+  
+  table.GeneratedTable thead {
+    background-color: #a3d2f0;
+  }
+  </style>
+
+
+
 body {
   background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
 }

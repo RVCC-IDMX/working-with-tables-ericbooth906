@@ -28,15 +28,20 @@ padding: 1.5em;
 ul {
   border-style: dashed;
   border-color: blue;
+  background-color: cornflowerblue;
   text-indent:25px;
-  list-style-type: square;
+  list-style-type: none;
+  font: verdana;
+  font-weight: bolder;
   padding: 1rem;
   }
 
-
+li{
+  margin: 1.5em;
+}
 
 caption {
-  font-size: medium;
+  font-size: larger;
   font-weight: bolder;
   text-align: left;
   font-variant: small-caps;

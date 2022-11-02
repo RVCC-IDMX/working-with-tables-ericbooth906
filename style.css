@@ -18,6 +18,14 @@ body {
   align-items: center;
 }
 
+
+img figure {
+  max-width: 600px;
+  height: auto;
+}
+
+
+
 figure {
 align-items: center;
 justify-content: center;
@@ -49,7 +57,8 @@ caption {
   padding-bottom: .5rem;
   }
 
-
+    
+  
   table.GeneratedTable {
      font: Verdana;
       width: 100%;
